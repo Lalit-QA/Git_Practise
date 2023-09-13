@@ -47,6 +47,8 @@ get the data and will use those data in text box
 		System.out.println("i am in");
 		checkBox = new CheckBox(driver);
 		checkBox.getcheckBox1();
+		
+		System.out.println("first commit new branch");
 	
 	}
 	
