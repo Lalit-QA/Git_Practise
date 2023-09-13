@@ -18,7 +18,7 @@ import TestComponents.BaseTest;
 //import pageObjects.AmazonSignIn;
 //import TestComponents.BaseTest;
 
-public class CheckBoxTest extends BaseTest {
+public class newBranch extends BaseTest {
 
 	
 	public WebDriver driver;
