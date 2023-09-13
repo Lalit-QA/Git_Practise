@@ -52,6 +52,7 @@ get the data and will use those data in text box
 		
 		System.out.println("reset and revert first commit");
 		
+		System.out.println("reset and revert second commit");
 	
 	}
 	
