@@ -50,6 +50,7 @@ get the data and will use those data in text box
 		
 		System.out.println("first commit new branch");
 
+		System.out.println("reset commit");
 	
 	}
 	
